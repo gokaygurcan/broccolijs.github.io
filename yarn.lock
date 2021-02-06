@@ -238,7 +238,7 @@ ansi-bold@^0.1.1:
 
 ansi-colors@^0.2.0:
   version "0.2.0"
-  resolved "http://registry.npmjs.org/ansi-colors/-/ansi-colors-0.2.0.tgz#72c31de2a0d9a2ccd0cac30cc9823eeb2f6434b5"
+  resolved "https://registry.npmjs.org/ansi-colors/-/ansi-colors-0.2.0.tgz#72c31de2a0d9a2ccd0cac30cc9823eeb2f6434b5"
   dependencies:
     ansi-bgblack "^0.1.1"
     ansi-bgblue "^0.1.1"
@@ -526,7 +526,7 @@ atob@^2.1.1:
 
 autolinker@~0.15.0:
   version "0.15.3"
-  resolved "http://registry.npmjs.org/autolinker/-/autolinker-0.15.3.tgz#342417d8f2f3461b14cf09088d5edf8791dc9832"
+  resolved "https://registry.npmjs.org/autolinker/-/autolinker-0.15.3.tgz#342417d8f2f3461b14cf09088d5edf8791dc9832"
 
 babel-code-frame@^6.26.0:
   version "6.26.0"
@@ -2799,13 +2799,10 @@ lodash.unescape@4.0.1:
   resolved "https://registry.yarnpkg.com/lodash.unescape/-/lodash.unescape-4.0.1.tgz#bf2249886ce514cda112fae9218cdc065211fc9c"
   integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
 
-lodash@^4.0.0, lodash@^4.17.10, lodash@~4.17.10:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-
-lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@~4.17.10:
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
 log-ok@^0.1.1:
   version "0.1.1"
@@ -2816,7 +2813,7 @@ log-ok@^0.1.1:
 
 log-utils@^0.2.1:
   version "0.2.1"
-  resolved "http://registry.npmjs.org/log-utils/-/log-utils-0.2.1.tgz#a4c217a0dd9a50515d9b920206091ab3d4e031cf"
+  resolved "https://registry.npmjs.org/log-utils/-/log-utils-0.2.1.tgz#a4c217a0dd9a50515d9b920206091ab3d4e031cf"
   dependencies:
     ansi-colors "^0.2.0"
     error-symbol "^0.1.0"
@@ -3015,11 +3012,11 @@ mixin-deep@^1.2.0:
 
 mkdirp@^0.3.5:
   version "0.3.5"
-  resolved "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.5.tgz#de3e5f8961c88c787ee1368df849ac4413eca8d7"
+  resolved "https://registry.npmjs.org/mkdirp/-/mkdirp-0.3.5.tgz#de3e5f8961c88c787ee1368df849ac4413eca8d7"
 
 mkdirp@^0.5.0, mkdirp@^0.5.1:
   version "0.5.1"
-  resolved "http://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
+  resolved "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   dependencies:
     minimist "0.0.8"
 
@@ -4220,7 +4217,7 @@ underscore.string@^3.2.2:
 
 underscore.string@~2.4.0:
   version "2.4.0"
-  resolved "http://registry.npmjs.org/underscore.string/-/underscore.string-2.4.0.tgz#8cdd8fbac4e2d2ea1e7e2e8097c42f442280f85b"
+  resolved "https://registry.npmjs.org/underscore.string/-/underscore.string-2.4.0.tgz#8cdd8fbac4e2d2ea1e7e2e8097c42f442280f85b"
 
 underscore.string@~3.3.4:
   version "3.3.4"
