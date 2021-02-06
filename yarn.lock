@@ -238,7 +238,7 @@ ansi-bold@^0.1.1:
 
 ansi-colors@^0.2.0:
   version "0.2.0"
-  resolved "http://registry.npmjs.org/ansi-colors/-/ansi-colors-0.2.0.tgz#72c31de2a0d9a2ccd0cac30cc9823eeb2f6434b5"
+  resolved "https://registry.npmjs.org/ansi-colors/-/ansi-colors-0.2.0.tgz#72c31de2a0d9a2ccd0cac30cc9823eeb2f6434b5"
   dependencies:
     ansi-bgblack "^0.1.1"
     ansi-bgblue "^0.1.1"
@@ -526,7 +526,7 @@ atob@^2.1.1:
 
 autolinker@~0.15.0:
   version "0.15.3"
-  resolved "http://registry.npmjs.org/autolinker/-/autolinker-0.15.3.tgz#342417d8f2f3461b14cf09088d5edf8791dc9832"
+  resolved "https://registry.npmjs.org/autolinker/-/autolinker-0.15.3.tgz#342417d8f2f3461b14cf09088d5edf8791dc9832"
 
 babel-code-frame@^6.26.0:
   version "6.26.0"
@@ -2258,8 +2258,9 @@ helper-md@^0.2.2:
     remarkable "^1.6.2"
 
 highlight.js@^9.12.0, highlight.js@^9.9.0:
-  version "9.13.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.13.1.tgz#054586d53a6863311168488a0f58d6c505ce641e"
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 homedir-polyfill@^1.0.1:
   version "1.0.3"
@@ -2816,7 +2817,7 @@ log-ok@^0.1.1:
 
 log-utils@^0.2.1:
   version "0.2.1"
-  resolved "http://registry.npmjs.org/log-utils/-/log-utils-0.2.1.tgz#a4c217a0dd9a50515d9b920206091ab3d4e031cf"
+  resolved "https://registry.npmjs.org/log-utils/-/log-utils-0.2.1.tgz#a4c217a0dd9a50515d9b920206091ab3d4e031cf"
   dependencies:
     ansi-colors "^0.2.0"
     error-symbol "^0.1.0"
@@ -3015,11 +3016,11 @@ mixin-deep@^1.2.0:
 
 mkdirp@^0.3.5:
   version "0.3.5"
-  resolved "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.5.tgz#de3e5f8961c88c787ee1368df849ac4413eca8d7"
+  resolved "https://registry.npmjs.org/mkdirp/-/mkdirp-0.3.5.tgz#de3e5f8961c88c787ee1368df849ac4413eca8d7"
 
 mkdirp@^0.5.0, mkdirp@^0.5.1:
   version "0.5.1"
-  resolved "http://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
+  resolved "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   dependencies:
     minimist "0.0.8"
 
@@ -4220,7 +4221,7 @@ underscore.string@^3.2.2:
 
 underscore.string@~2.4.0:
   version "2.4.0"
-  resolved "http://registry.npmjs.org/underscore.string/-/underscore.string-2.4.0.tgz#8cdd8fbac4e2d2ea1e7e2e8097c42f442280f85b"
+  resolved "https://registry.npmjs.org/underscore.string/-/underscore.string-2.4.0.tgz#8cdd8fbac4e2d2ea1e7e2e8097c42f442280f85b"
 
 underscore.string@~3.3.4:
   version "3.3.4"
